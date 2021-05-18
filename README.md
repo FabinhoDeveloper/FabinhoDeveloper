@@ -1,16 +1,29 @@
-### Hi there 👋
+# Fábio Ezequiel Teixeira dos Santos
 
-<!--
-**FabinhoDeveloper/FabinhoDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Amante de programação em Phyton 💻
 
-Here are some ideas to get you started:
+Aluno da instituição Firjan Senai/Sesi Resense-RJ 🏫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## Meu temas preferidos no curso foram:
+
+*Phyton*  
+*Tkinter*
+
+
+
+
+### Matérias preferidas:
+
+* Geografia
+* História
+* Sociologia
+* Matemática
+
+
+### Meus códigos desenvolvidos:
+
+Eu já desenvolvi um sistema de urnas em phyton, além de um jogo de truco
+
+onde o jogador joga contra a máquina.
