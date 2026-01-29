@@ -14,62 +14,59 @@ Sou apaixonado por resolver problemas através de código e criar aplicações q
 ## 🛠️ Tech Stack
 
 ### 🔹 Linguagens
-- `JavaScript` • `Java` • `Python`
+- `JavaScript & TypeScript` • `C#` • `PHP`
 
 ### 🔹 Backend
-- `Node.js` • `Express` • `Sequelize` • APIs REST
+- `Node.js` • `Express` • `Prisma ORM` • APIs REST
 
 ### 🔹 Frontend & Mobile
 - `HTML` • `CSS` • `Bootstrap` • `React Native`
 
 ### 🔹 Ferramentas & Outros
-- Git / GitHub • Docker • MySQL • MVC
+- Git / GitHub • Docker • MySQL • Postgres • AWS
 
 ---
 
 ## 🚀 Projetos em Destaque
 
-### 📌 **Sistema de Gestão OS**
-Aplicação completa de gerenciamento de ordens de serviço com painel, autenticação e filtros por status.
+### 📌 **Q-Fácil**
+Aplicativo desenvolvido para servir ao município de Queluz-SP, com serviços, autenticação, multi-tentant, notificações e envio de e-mails.
 
-🔗 *Link do repositório:* https://github.com/FabinhoDeveloper/OS-Sistema  
-📌 Tech: Node.js + Sequelize + Bootstrap + Handlebars
+🔗 *Link dos repositório: * https://github.com/FabinhoDeveloper/QueluzApp_Mobile  
 
----
-
-### 📌 **UrnaEletronica**
-Simulador de urna eletrônica feito em JavaScript.
-
-🔗 https://github.com/FabinhoDeveloper/UrnaEletronica  
-📌 Tech: JavaScript
+📌 Tech: React Native + Axios + AWS SDK
 
 ---
 
-### 📌 **node**
-Projeto de estudos e experimentos com Node.js.
+### 📌 **Sonho Belo**
+Projeto web multi-tenant desenvolvido para um cliente que atua com fabricação e venda de doces para festas.
 
-🔗 https://github.com/FabinhoDeveloper/node
+🔗 https://github.com/FabinhoDeveloper/UrnaEletronica
+📌 Tech: Node.js
 
 ---
+
+### 📌 **Gestão de OS's**
+Projeto web voltado para uso interno do departamento, de gestão de Ordens de Serviço de TI. Multi-tenant: usuários comuns e administradores.
+
+🔗 https://github.com/FabinhoDeveloper/UrnaEletronica
+📌 Tech: Node.js
+
 
 ## 📫 Como me encontrar
 
-- 💼 LinkedIn: https://www.linkedin.com/in/seu-perfil  
-- 📧 Email: seu.email@example.com
-
----
-
-## 📈 GitHub Stats
-
-<!-- Você pode incluir badges de estatísticas se quiser -->
-
+- 💼 LinkedIn: https://www.linkedin.com/in/f%C3%A1bio-teixeira-dos-santos-269130259
+- 📧 Email: fabioezequiel555@gmail.com
 ---
 
 ## 🎯 Sempre aprendendo…
 Atualmente estudando:  
-✔️ React Native  
+✔️ C# e .NET
+✔️ Programação Orientada a Objetos
+✔️ Conceitos avançados de bancos de dados
+✔️ Certificação AWS Cloud Practioner
 ✔️ Docker e deploy de aplicações  
-✔️ Melhores práticas de APIs
+✔️ Melhores práticas de APIs e código
 
 ---
 
