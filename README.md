@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o Fábio Santos  
 **Desenvolvedor Full Stack Júnior | Node.js | JavaScript | React Native**
 
-🎯 Estou em busca de oportunidades como desenvolvedor de software júnior, com foco em backend e soluções completas.
+🎯 Estou em busca de oportunidades como desenvolvedor de software júnior.
 
 ---
 
@@ -14,13 +14,13 @@ Sou apaixonado por resolver problemas através de código e criar aplicações q
 ## 🛠️ Tech Stack
 
 ### 🔹 Linguagens
-- `JavaScript & TypeScript` • `C#` • `PHP`
+- `JavaScript & TypeScript` • `C#`
 
 ### 🔹 Backend
-- `Node.js` • `Express` • `Prisma ORM` • APIs REST
+- `Node.js` • `Express` • `Prisma ORM` • `APIs REST`
 
 ### 🔹 Frontend & Mobile
-- `HTML` • `CSS` • `Bootstrap` • `React Native`
+- `React + Vite` • `HTML` • `CSS` • `Bootstrap` • `React Native` • `TailwindCSS`
 
 ### 🔹 Ferramentas & Outros
 - Git / GitHub • Docker • MySQL • Postgres • AWS
@@ -32,7 +32,7 @@ Sou apaixonado por resolver problemas através de código e criar aplicações q
 ### 📌 **Q-Fácil**
 Aplicativo desenvolvido para servir ao município de Queluz-SP, com serviços, autenticação, multi-tentant, notificações e envio de e-mails.
 
-🔗 *Link dos repositório: * https://github.com/FabinhoDeveloper/QueluzApp_Mobile  
+🔗 *Link dos repositório: * https://github.com/prefeitura-municipal-de-queluz/Q-Facil
 
 📌 Tech: React Native + Axios + AWS SDK
 
@@ -61,8 +61,8 @@ Projeto web voltado para uso interno do departamento, de gestão de Ordens de Se
 
 ## 🎯 Sempre aprendendo…
 Atualmente estudando:  
-✔️ C# e .NET
-✔️ Programação Orientada a Objetos
+✔️ React + Vite
+✔️ Python + FastAPI
 ✔️ Conceitos avançados de bancos de dados
 ✔️ Certificação AWS Cloud Practioner
 ✔️ Docker e deploy de aplicações  
