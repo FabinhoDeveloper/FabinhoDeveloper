@@ -32,7 +32,7 @@ Sou apaixonado por resolver problemas através de código e criar aplicações q
 ### 📌 **Q-Fácil**
 Aplicativo desenvolvido para servir ao município de Queluz-SP, com serviços, autenticação, multi-tentant, notificações e envio de e-mails.
 
-🔗 *Link dos repositório: * https://github.com/FabinhoDevloper/QFacil 
+🔗 *Link dos repositório: * https://github.com/FabinhoDevloper/Q-Facil 
 
 📌 Tech: React Native + Axios + AWS SDK
 
